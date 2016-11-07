@@ -43,5 +43,5 @@ class AppComponent() {
 <p> {{ description | fractionize }} </p>
 ```
 
-Outputs: 2 &#2153
+Outputs: 2 &#2153;
 
