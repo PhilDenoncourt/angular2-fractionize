@@ -35,7 +35,7 @@ export class AppModule {}
   // ...
 })
 class AppComponent() {
-  x: string = `2.333`;
+  x: string = `2.4`;
 }
 ```
 
@@ -43,5 +43,5 @@ class AppComponent() {
 <p> {{ description | fractionize }} </p>
 ```
 
-Outputs: 2 &#2153;
+Outputs: 2 4/10;
 
