@@ -1,6 +1,6 @@
 {
   "name": "angular2-fractionize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Angular Pipe that outputs decimals into an approximate fraction",
   "main": "build/src/index.js",
   "typings": "./build/src/index.d.ts",
