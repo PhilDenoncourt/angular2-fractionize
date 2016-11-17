@@ -6,12 +6,12 @@
   "typings": "./build/src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pdenoncourt/angular2-fractionize.git"
+    "url": "git+https://github.com/phildenoncourt/angular2-fractionize.git"
   },
   "bugs": {
-    "url": "https://github.com/pdenoncourt/angular2-fractionize/issues"
+    "url": "https://github.com/phildenoncourt/angular2-fractionize/issues"
   },
-  "homepage": "https://github.com/pdenoncourt/angular2-fractionize#readme",
+  "homepage": "https://github.com/phildenoncourt/angular2-fractionize#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/ngc -p tsconfig.json",
